@@ -1,0 +1,20 @@
+Sr. No,Component,Specification,Source,Cost
+1,Solar Panel ,"70x70, 6V, 100mAh",https://www.adafruit.com/,500
+2,ESP32,S3 Development Board,https://www.sparkfun.com/,350
+3,Gas Sensor,MQ-135,https://www.dfrobot.com/,150
+4,Sound Sensor,"Sensitivity: Adjustable, Output: Analog/Digital",https://www.adafruit.com/,100
+5,OLED Display,"0.96"", 128x64, I2C, SSD1306 driver",https://www.waveshare.com/,250
+6,Pressure & Altitude Sensor,"BMP280, I2C/SPI, 300-1100 hPa",https://www.sparkfun.com/,200
+7,Charging Module,"TP4056, 5V input, 1A output",https://www.adafruit.com/,120
+8,Flame Sensor,"IR detection, Digital/Analog output",https://www.dfrobot.com/,130
+9,Battery,"Li-ion, 3.7V, 2000mAh",https://www.adafruit.com/,300
+10,Voltage Booster,"Input: 3.7V, Output: 5V 2A",https://www.sparkfun.com/,110
+11,Dust Sensor,"PM2.5 detection, UART output",https://www.dfrobot.com/,180
+12,Hall Effect Sensor,"A3144, Digital output, 3.3V-5V",https://www.sparkfun.com/,90
+13,Current and Voltage Detection,"ACS712, 5A/20A/30A, Analog output",https://www.adafruit.com/,140
+14,Water Flow Sensor,"YF-S201, 1-30 L/min, Hall sensor",https://www.dfrobot.com/,160
+15,Temperature Sensor,"DS18B20, -55°C to 125°C, 1-Wire",https://www.adafruit.com/,80
+16,Soil Moisture Sensor,"Capacitive, Analog output, 3.3V-5V",https://www.dfrobot.com/,70
+17,Relay Module,"5V, 10A, Optocoupler isolation",https://www.sparkfun.com/,60
+18,Rain Drop Sensor,"LM393, Analog/Digital output",https://www.dfrobot.com/,85
+19,RTC Module,"DS3231, I2C, Battery backup",https://www.adafruit.com/,95
